@@ -2,7 +2,7 @@ import React from "react";
 
 import "./App.css";
 import Jobs from "./Jobs";
-import Job from "./Job";
+
 function App() {
   return (
     <div>
