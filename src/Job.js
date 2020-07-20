@@ -16,19 +16,19 @@ const Job = () => {
         <div className="title">Chef de projet</div>
       </div>
       <div className="item pink">
-        <div className="title">Developpeur react</div>
+        <div className="title">Developpeur react.js</div>
       </div>
       <div className="item red">
-        <div>title</div>
+        <div className="title">Sales Associate - Stockholm</div>
       </div>
       <div className="item green">
-        <div>title</div>
+        <div className="title">Vendeur/se</div>
       </div>
       <div className="item yellow">
-        <div>title</div>
+        <div className="title">CRM & Data Analyst</div>
       </div>
       <div className="item blue">
-        <div>title</div>
+        <div className="title">Infirmier (H/F)</div>
       </div>
     </div>
     //className, title, contractType, country et city

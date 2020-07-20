@@ -6,15 +6,12 @@ function App() {
   return (
     <div>
       <header>The job board</header>
-      {/* <div className="container">
-        <div className="item"></div>
-        <div className="item"></div>
-        <div className="item"></div>
-        <div className="item"></div>
-        <div className="item"></div>
-        <div className="item"></div>
-      </div> */}
+
       <Job />
+      <footer>
+        Made with React @ <a href="https://www.lereacteur.io/">le Reacteur</a>{" "}
+        by Greg
+      </footer>
     </div>
   );
 }
